@@ -129,3 +129,11 @@ Working script is provided in the '/script.ipynb' file.
 
 # 5. Results
 Simple human check of outputted results show that the algorithm solves the problem.
+
+<p align="center">
+  <img src="https://github.com/AKAD0/pytorch_hellow/blob/master/Fig2.png">
+</p>
+
+$$
+\text{Fig.2: Resulting outputs}
+$$
