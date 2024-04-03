@@ -103,7 +103,8 @@ $$
 $$
 ### > Optimization procedure
 For the problem the SGD was chosen to optimize the problem.
-Only the $$b_{final}$$ was setted to optimize.
+
+Only the b_final was setted to optimize.
 
 ### > Initializing data
 $$
