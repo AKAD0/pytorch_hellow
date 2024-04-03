@@ -93,7 +93,7 @@ $$
 \\
 \begin{aligned}
 \text{where}~
-&θ-\text{optimizing parameters W,b,w,b\_{}final} \\
+&θ-\text{optimizing parameters W,b,w,bfinal} \\
 &x-\text{input data} \\
 &f^{*}-\text{true function} \\
 &f-\text{approximating function}
