@@ -102,7 +102,7 @@ $$
 \end{aligned}
 $$
 ### > Optimization procedure
-For the problem the SGD was chosen to optimize the problem.
+For the problem the SGD was chosen to optimize the model.
 
 Only the b_final was setted to optimize.
 
