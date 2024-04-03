@@ -21,6 +21,7 @@ Abstract problem of defining the effective medicine dosage.
 Algorithm structure is comprised of 5 parts: Dataset, Model, Cost function, Optimization procedure and Initializing data. Describtion of every part is provided below.
 ## 3.1. Dataset
 Abstract synthetic dataset.
+
 $$
 𝕏=\lbrace{0, 0.5, 1 \rbrace},~
 f^*=\begin{bmatrix}
@@ -29,6 +30,7 @@ f^*=\begin{bmatrix}
     0 \\
     \end{bmatrix}
 $$
+
 ## 3.2. Model
 ### > FNN architecture:
 <p align="center">
